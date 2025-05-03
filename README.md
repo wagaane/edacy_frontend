@@ -23,6 +23,6 @@
 
 ### 1. Cloner le dépôt
 
-```bash git https://github.com/wagaane/edacy.git ```
+```bash git https://github.com/wagaane/edacy_frontend.git ```
 
 # edacy_
